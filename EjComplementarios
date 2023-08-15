@@ -1,0 +1,37 @@
+numero1 = 16
+numero2 = 3.17
+suma = numero1 + numero2
+print(suma)
+resta = numero1 - numero2
+print(resta)
+multiplicacion = numero1 * numero2
+print(multiplicacion)
+division = numero1 / numero2
+print(division)
+nombre = 'Valen'
+precio = 3999
+descuento = 0.25
+precio_final = precio-precio*descuento
+print(precio_final)
+cadena = "Hola me llamo"
+longitud = len(cadena)
+print(longitud)
+precio = 23.75
+print(int(precio))
+nombre = 'Valen'
+apellido = ' Balacco'
+nombre_completo = nombre + apellido
+print(nombre_completo)
+edad = 18
+edad = edad+5
+print(edad)
+print(edad-10)
+altura = 1.72
+altura = altura*4
+print(altura)
+altura = altura/3
+print(altura)
+nombre2 = "Valen Balacco"
+print(nombre2.upper())
+print(nombre2.lower())
+print(nombre2.title())
