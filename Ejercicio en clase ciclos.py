@@ -30,7 +30,7 @@ pares_total = 0
 impares_total = 0
 
 while True:
-    numero = int(input("Ingrese un número: "))
+    numero = int(input("Ingrese un número: (Ingrese 0 para finalizar)"))
     
     if numero == 0:
       print("Total de dígitos pares leídos:", pares_total)
